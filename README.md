@@ -1,6 +1,6 @@
 PHP Client
 ================
-This is the PHP Client for MailWizz's API.
+This is the PHP Client for MailinWaves's API.
 
 ### Install
 Get started by installing it via composer as follows:   
